@@ -1,0 +1,36 @@
+@font-face {
+  font-family: fontello;
+  src: url("fontello.4fdfa74e.eot");
+  src: url("fontello.4fdfa74e.eot#iefix") format("embedded-opentype"), url("fontello.51527325.woff2") format("woff2"), url("fontello.6260be92.woff") format("woff"), url("fontello.60be54ac.ttf") format("truetype"), url("fontello.f23bebde.svg#fontello") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  speak: never;
+  -webkit-text-decoration: inherit;
+  text-decoration: inherit;
+  width: 1em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-left: .2em;
+  margin-right: .2em;
+  font-family: fontello;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1em;
+  display: inline-block;
+}
+
+.icon-cancel:before {
+  content: "";
+}
+
+.icon-menu:before {
+  content: "";
+}
+
+/*# sourceMappingURL=index.500c8d26.css.map */

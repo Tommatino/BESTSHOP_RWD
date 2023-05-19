@@ -1,0 +1,94 @@
+@import "../settings/variables";
+@import "../settings/mixins";
+
+.header {
+  height: 4.375rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+  }
+  .logo {
+    font-size: 2rem;
+  }
+  &__nav {
+    display: flex;
+    @include tablet {
+      position: absolute;
+      left: 0;
+      top: 5.9375rem;
+      flex-direction: column;
+      gap: 1.5rem;
+      background-color: $color-white;
+      width: 100%;
+      padding-bottom: 1.25rem;
+      display: none;
+      .nav__element {
+        padding: 0 !important;
+        .nav__link {
+          padding: 0.875rem 1.25rem !important;
+        }
+      }
+    }
+
+    .nav__element {
+      padding: 0 1.625rem;
+      &:last-child {
+        padding-right: 0;
+      }
+      .nav__link {
+        font-family: $font-open-sans;
+        color: $color-grey;
+        font-weight: 700;
+        font-size: 0.6875rem;
+        text-transform: uppercase;
+        padding: 1.75rem 1.125rem 1.375rem;
+        border-bottom: 0.25rem solid transparent;
+        letter-spacing: 0.1875rem;
+        &:hover {
+          color: $color-black;
+          border-color: $color-primary;
+        }
+      }
+    }
+  }
+}
+
+.menu {
+  &--icon {
+    .icon-menu {
+      display: none;
+      @include tablet {
+        display: inline-block;
+      }
+    }
+    .icon-cancel {
+      display: none;
+    }
+  }
+  &--btn {
+    display: none;
+    position: absolute;
+    opacity: 0;
+    top: -20rem;
+    left: -20rem;
+    @include tablet {
+      &:checked ~ .header__nav {
+        display: flex;
+      }
+    }
+    @include tablet {
+      &:checked ~ .menu--icon {
+        .icon-menu {
+          display: none !important;
+        }
+        .icon-cancel {
+          display: inline-block;
+        }
+      }
+    }
+  }
+}
+

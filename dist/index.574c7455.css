@@ -1,0 +1,195 @@
+.header {
+  height: 4.375rem;
+  box-shadow: 0 3px 6px #00000029;
+}
+
+.header__container {
+  height: 100%;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.header .logo {
+  font-size: 2rem;
+}
+
+.header__nav {
+  display: flex;
+}
+
+@media (width <= 792px) {
+  .header__nav {
+    width: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding-bottom: 1.25rem;
+    display: none;
+    position: absolute;
+    top: 5.9375rem;
+    left: 0;
+  }
+
+  .header__nav .nav__element {
+    padding: 0 !important;
+  }
+
+  .header__nav .nav__element .nav__link {
+    padding: .875rem 1.25rem !important;
+  }
+}
+
+.header__nav .nav__element {
+  padding: 0 1.625rem;
+}
+
+.header__nav .nav__element:last-child {
+  padding-right: 0;
+}
+
+.header__nav .nav__element .nav__link {
+  color: #a5a5a5;
+  text-transform: uppercase;
+  letter-spacing: .1875rem;
+  border-bottom: .25rem solid #0000;
+  padding: 1.75rem 1.125rem 1.375rem;
+  font-family: Open Sans, sans-serif;
+  font-size: .6875rem;
+  font-weight: 700;
+}
+
+.header__nav .nav__element .nav__link:hover {
+  color: #000;
+  border-color: #08a6e4;
+}
+
+.menu--icon .icon-menu {
+  display: none;
+}
+
+@media (width <= 792px) {
+  .menu--icon .icon-menu {
+    display: inline-block;
+  }
+}
+
+.menu--icon .icon-cancel {
+  display: none;
+}
+
+.menu--btn {
+  opacity: 0;
+  display: none;
+  position: absolute;
+  top: -20rem;
+  left: -20rem;
+}
+
+@media (width <= 792px) {
+  .menu--btn:checked ~ .header__nav {
+    display: flex;
+  }
+
+  .menu--btn:checked ~ .menu--icon .icon-menu {
+    display: none !important;
+  }
+
+  .menu--btn:checked ~ .menu--icon .icon-cancel {
+    display: inline-block;
+  }
+}
+
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: Raleway, sans-serif;
+  font-size: 2.25rem;
+}
+
+.container {
+  width: 1352px;
+  margin: 0 auto;
+}
+
+@media (width <= 1352px) {
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+}
+
+.logo {
+  color: #08a6e4;
+  font-family: Raleway, sans-serif;
+  font-weight: 300;
+}
+
+.menu--icon {
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+@media (width <= 792px) {
+  .menu--icon {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
+.icon-menu {
+  font-size: 2.25rem;
+}
+
+icon-cancel {
+  font-size: 1.25rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*# sourceMappingURL=index.574c7455.css.map */

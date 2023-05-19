@@ -1,0 +1,49 @@
+@import "../settings/variables";
+@import "../settings/mixins";
+
+body {
+  font-family: $font-open-sans;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: $font-raleway;
+  font-size: 2.25rem;
+}
+
+.container {
+  width: 1352px;
+  margin: 0 auto;
+  @include desktop {
+    width: 100%;
+    padding: 0 15px;
+  }
+}
+
+.logo {
+  font-family: $font-raleway;
+  font-weight: 300;
+  color: $color-primary;
+}
+
+.menu--icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  @include tablet {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
+.icon-menu {
+  font-size: 2.25rem;
+}
+
+icon-cancel {
+  font-size: 1.25rem;
+}
