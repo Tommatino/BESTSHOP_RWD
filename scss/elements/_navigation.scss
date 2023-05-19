@@ -75,17 +75,17 @@
     top: -20rem;
     left: -20rem;
     @include tablet {
-      &:checked ~ .header__nav {
-        display: flex;
-      }
-    }
-    @include tablet {
-      &:checked ~ .menu--icon {
-        .icon-menu {
-          display: none !important;
+      &:checked ~ {
+        .header__nav {
+          display: flex;
         }
-        .icon-cancel {
-          display: inline-block;
+        .menu--icon {
+          .icon-menu {
+            display: none !important;
+          }
+          .icon-cancel {
+            display: inline-block;
+          }
         }
       }
     }
