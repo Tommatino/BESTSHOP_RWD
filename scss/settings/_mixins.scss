@@ -11,3 +11,9 @@
     @content;
   }
 }
+
+@mixin device1024 {
+  @media (max-width: 1024px) {
+    @content
+  }
+}

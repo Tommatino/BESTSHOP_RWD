@@ -1,0 +1,183 @@
+@import "../settings/variables";
+@import "../settings/mixins";
+
+.benefits {
+  padding: 100px 0;
+  background-color: $color-light-grey;
+  margin: 0 auto;
+  @include device1024 {
+    padding: 3.125rem 0;
+  }
+  &__container {
+    padding: 0 6.25rem;
+    @include device1024 {
+      padding: 0 0.9375rem;
+    }
+  }
+  &__single {
+    background-color: $color-white;
+    border: 1px solid $color-border;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 2.3125rem;
+    border-radius: 0.3125rem;
+    @include device1024 {
+      flex-direction: column-reverse !important;
+      align-items: center;
+      padding: 0 1.25rem !important;
+    }
+  }
+  &__text {
+    max-width: 25.9375rem;
+    margin: 5.625rem;
+    @include device1024 {
+      margin: 0;
+      max-width: none;
+    }
+    &::after {
+      content: "";
+      width: 20.75rem;
+      height: 0.25rem;
+      background-color: $color-red;
+      display: block;
+      margin-top: 3.125rem;
+      @include device1024 {
+        display: none;
+      }
+    }
+  }
+  &__description {
+    margin: 1.875rem 0;
+    line-height: 1.375rem;
+  }
+  &__image {
+    position: relative;
+    img {
+      position: relative;
+      z-index: 2;
+    }
+  }
+  &__single--notebook .benefits__image {
+    margin-right: 7.3125rem;
+    margin-bottom: 2.375rem;
+    @include device1024 {
+      margin: 2.5rem 0 0;
+    }
+    &::before {
+      content: "";
+      width: 11.25rem;
+      height: 11.25rem;
+      background-color: $color-red;
+      display: block;
+      border-radius: 2.5rem;
+      position: absolute;
+      right: 0;
+      top: -2.5rem;
+      transform: rotate(45deg);
+      @include device1024 {
+        width: 5.625rem;
+        height: 5.625rem;
+        right: 0.1rem;
+        top: -1rem;
+      }
+    }
+    & img {
+      width: 24.125rem;
+      height: auto;
+      @include device1024 {
+        width: 12rem;
+      }
+    }
+  }
+  &__single--phone {
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 0 1.25rem 0 4.375rem;
+    .benefits__image {
+      @include device1024 {
+        margin-top: 1.875rem;
+      }
+      &::before {
+        content: "";
+        width: 20rem;
+        height: 20rem;
+        background-color: $color-primary;
+        display: block;
+        border-radius: 50%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        @include device1024 {
+          width: 8.1875rem;
+          height: 8.1875rem;
+          top: -0,9375rem;
+        }
+      }
+    }
+    .benefits__image img {
+      width: 26.625rem;
+      height: auto;
+      @include device1024 {
+        width: 10.9375rem;
+      }
+    }
+    .benefits__text {
+      margin: 4.375rem;
+      @include device1024 {
+        margin: 1.875rem 0;
+      }
+      &::after {
+      background-color: $color-primary;
+      }
+    }
+  }
+  &__double {
+    display: flex;
+    > div {
+      margin-bottom: 0;
+    }
+    @include device1024 {
+      flex-direction: column;
+    }
+  }
+  &__single--solo {
+    max-width: 38.75rem;
+    .benefits__text {
+      max-width: none;
+      margin: 4.375rem 2.1875rem;
+    }
+    @include device1024 {
+      max-width: none;
+      .benefits__text {
+        margin: 0;
+        padding: 1.875rem 0;
+      }
+    }
+  }
+  &__text::after {
+    background-color: $color-green;
+  }
+  &__single--image {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $color-green;
+    border: none;
+    margin-left: 60px;
+    @include device1024 {
+      margin-left: 0;
+      margin-top: 0.3125rem;
+    }
+    img {
+      width: 18.4375rem;
+      height: auto;
+      margin-top: 3.4375rem;
+    }
+
+  }
+
+
+
+}
