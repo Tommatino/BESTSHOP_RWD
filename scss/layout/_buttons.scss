@@ -1,0 +1,31 @@
+@import "../settings/variables";
+
+.btn {
+  font-family: $font-open-sans;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: inline-block;
+  padding: 16px 65px;
+  border-radius: $button-radius;
+  border: none;
+  cursor: pointer;
+  &--primary {
+    background-color: $color-primary;
+    box-shadow: 3px 10px 14px $color-primary;
+  }
+  &--large {
+    padding: 1.375rem 9.6875rem;
+  }
+  &--red {
+    background-color: $color-red;
+  }
+  &--green {
+    background-color: $color-green;
+  }
+}
+
+
+
+
+
