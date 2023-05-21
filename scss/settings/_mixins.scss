@@ -13,7 +13,7 @@
 }
 
 @mixin device1024 {
-  @media (max-width: 1024px) {
+  @media (max-width: #{$device1024}) {
     @content
   }
 }

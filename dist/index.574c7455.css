@@ -20,6 +20,13 @@
   }
 }
 
+@media (width <= 1352px) {
+  .benefits .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+}
+
 .benefits__single {
   background-color: #fff;
   border: 1px solid #e8e9ed;
@@ -241,6 +248,171 @@
   margin-top: 3.4375rem;
 }
 
+.contact {
+  justify-content: center;
+  padding: 5rem 6.25rem 6.25rem;
+  display: flex;
+}
+
+@media (width <= 1024px) {
+  .contact {
+    flex-direction: column;
+    align-items: center;
+    padding: 3.125rem .9375rem;
+  }
+}
+
+.contact__column {
+  width: 50%;
+}
+
+@media (width <= 1024px) {
+  .contact__column {
+    width: 100%;
+  }
+}
+
+.contact__title {
+  font-family: Raleway, sans-serif;
+  font-size: 3.0625rem;
+  line-height: 3.7rem;
+}
+
+.contact__instruction {
+  margin: 1.375rem 0 2.625rem;
+  font-family: Open Sans, sans-serif;
+  font-size: 1rem;
+  line-height: 1.375rem;
+}
+
+@media (width <= 1024px) {
+  .contact__instruction {
+    margin: .3125rem 0 2.1875rem;
+  }
+}
+
+.contact__details {
+  color: #a5a5a5;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+}
+
+@media (width <= 1024px) {
+  .contact__details {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.contact__details .details__item {
+  color: #a5a5a5;
+  text-decoration: none;
+}
+
+@media (width <= 1024px) {
+  .contact__details .details__item {
+    margin-bottom: .7rem;
+  }
+}
+
+.contact__details .details__item:first-of-type {
+  margin-right: 1.25rem;
+}
+
+.contact__details .details__item img {
+  margin-right: .625rem;
+}
+
+.form {
+  flex-direction: column;
+  display: flex;
+}
+
+@media (width <= 1024px) {
+  .form {
+    margin-top: 1.25rem;
+  }
+}
+
+.form__field {
+  flex-direction: column;
+  display: flex;
+}
+
+.form__field:first-of-type {
+  margin-bottom: 2.625rem;
+}
+
+.form__label {
+  text-transform: uppercase;
+  color: #08a6e4;
+  letter-spacing: .25rem;
+  font-size: .6875rem;
+  font-weight: bold;
+  line-height: .9rem;
+}
+
+.form__input {
+  background-color: #0000;
+  border: none;
+  border-bottom: 1px solid #a5a5a5;
+  line-height: 2.625rem;
+}
+
+.form__consent {
+  margin-top: 1.875rem;
+}
+
+.form__checkbox {
+  cursor: pointer;
+  margin-bottom: .75rem;
+  padding-left: 2.1875rem;
+  font-size: 1.375rem;
+  display: block;
+  position: relative;
+}
+
+.form__checkbox input {
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+  position: absolute;
+}
+
+.form__checkbox input:checked ~ .checkbox {
+  background-image: url("Checkmark.c57fbd17.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+
+.form__checkbox .checkbox {
+  height: 1.5625rem;
+  width: 1.5625rem;
+  background-color: #fff;
+  border: 1px solid #a5a5a5;
+  border-radius: .25rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.form .consent__text {
+  color: #a5a5a5;
+  margin: 0 .625rem;
+  font-size: .75rem;
+  line-height: 1.0625rem;
+}
+
+.form .btn {
+  align-self: flex-end;
+  margin-top: 1.25rem;
+  padding: 1.25rem 6.0625rem;
+  font-size: .8125rem;
+}
+
 .header {
   height: 4.375rem;
   box-shadow: 0 3px 6px #00000029;
@@ -251,6 +423,13 @@
   justify-content: space-between;
   align-items: center;
   display: flex;
+}
+
+@media (width <= 1352px) {
+  .header .container {
+    width: 100%;
+    padding: 0 15px;
+  }
 }
 
 .header .logo {
@@ -402,18 +581,25 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 100px auto;
   display: flex;
 }
 
+.pricing.container {
+  margin: 6.25rem auto;
+}
+
 @media (width <= 1352px) {
+  .pricing.container {
+    width: 100%;
+    padding: 0 15px;
+  }
+
   .pricing {
     margin: 3.125rem auto;
   }
 }
 
 .pricing h2 {
-  margin-top: 6.25rem;
   font-family: Raleway, sans-serif;
   font-size: 2.25rem;
 }
@@ -565,6 +751,13 @@
   }
 }
 
+@media (width <= 1352px) {
+  .statistics .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+}
+
 .statistics__title {
   text-align: center;
   font-family: Raleway, sans-serif;
@@ -700,15 +893,9 @@ h2 {
 }
 
 .container {
-  width: 1352px;
+  width: 100%;
+  max-width: 1352px;
   margin: 0 auto;
-}
-
-@media (width <= 1352px) {
-  .container {
-    width: 100%;
-    padding: 0 15px;
-  }
 }
 
 .logo {

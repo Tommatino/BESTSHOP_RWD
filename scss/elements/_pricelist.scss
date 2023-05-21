@@ -2,18 +2,24 @@
 @import "../settings/variables";
 
 .pricing {
-  margin: 100px auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  &.container {
+    margin: 6.25rem auto;
+    @include desktop {
+      width: 100%;
+      padding: 0 15px;
+    }
+  }
   @include desktop {
     margin: 3.125rem auto;
   }
   h2 {
     font-size: 2.25rem;
     font-family: $font-raleway;
-    margin-top: 6.25rem;
+    //margin-top: 6.25rem;
   }
   &__boxes {
     width: 100%;
