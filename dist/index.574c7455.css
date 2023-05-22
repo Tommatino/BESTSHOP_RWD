@@ -413,6 +413,45 @@
   font-size: .8125rem;
 }
 
+.footer {
+  padding: 1.25rem 0;
+  box-shadow: 0 .3125rem 2.5rem #00000029;
+}
+
+@media (width <= 1352px) {
+  .footer {
+    padding: 1.25rem .9375rem;
+  }
+}
+
+.footer__container {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.footer__info {
+  flex-direction: column;
+  justify-content: space-around;
+  display: flex;
+}
+
+.footer__info .logo {
+  font-size: 1.625rem;
+}
+
+.footer__copy {
+  color: #a5a5a5;
+  margin-top: .375rem;
+  font-family: Open Sans, sans-serif;
+  font-size: .6875rem;
+  line-height: 1.5rem;
+}
+
+.footer__icons a:first-of-type {
+  margin-right: 1.5625rem;
+}
+
 .header {
   height: 4.375rem;
   box-shadow: 0 3px 6px #00000029;
