@@ -1,5 +1,4 @@
 const inputNumber = document.querySelectorAll(".form__input")
-const inputCheckboxes = document.querySelectorAll("input[type = checkbox]")
 
 const productList = document.querySelector("li[data-id = products]")
 const productCalc = document.querySelector("li[data-id = products] .item__calc")
@@ -15,6 +14,10 @@ const packageContainer = document.querySelector(".calc__select")
 const packageCalc = document.querySelector("li[data-id = package] .item__calc")
 const packagePrice = document.querySelector("li[data-id = package] .item__price")
 const packageList = document.querySelector("li[data-id = package]")
+
+const inputCheckboxes = document.querySelectorAll(".calc__form .form__checkbox input[type = checkbox]")
+const accountingList = document.querySelector("li[data-id = accounting]")
+const terminalList = document.querySelector("li[data-id = terminal]")
 
 inputNumber.forEach(function (inputNumber){
     inputNumber.addEventListener("input", handleAddNumber)
@@ -60,3 +63,16 @@ function handleOpen (event) {
         }
     })
 }
+
+inputCheckboxes.forEach(function (checkbox) {
+    checkbox.addEventListener("input", handleCheck)
+    function handleCheck (event) {
+        if (event.target.id === "accounting") {
+            accountingList.classList.toggle("open")
+        }
+        if (event.target.id === "terminal") {
+            terminalList.classList.toggle("open")
+        }
+    }
+})
+
