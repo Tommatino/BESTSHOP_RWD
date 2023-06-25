@@ -1,4 +1,4 @@
-5940
+5944
 135C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\8-restructRuleset.js133289525215805536 0
 76C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\lib\convertor133289525278634448 1
 70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\stable\stable.js133289525197763046 0
@@ -19,13 +19,21 @@
 66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\scss\layout\_buttons.scss133291361057853157 0
 88C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\htmlnano\lib\modules\minifyUrls.js133289525229908244 0
 83C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers\lib\_ts_param.js133289525261914683 0
-71C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\scss\elements\_calculator.scss133320681222523256 0
+71C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\scss\elements\_calculator.scss133320687153672099 0
 72C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\svgo\lib\svgo.d.ts133289525262307961 0
 109C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\node_modules\css-tree\cjs\lexer\generic-urange.cjs133289525247507645 0
 87C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lightningcss\node\targets.js.flow133289525210908315 0
 103C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133289525265206519 0
 104C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\intersectionobserver.js133289525306258360 0
 52C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\config.json133289708164386192 0
+133C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\package.json133289525267228750 0
+120C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133289525256044505 0
+99C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\async-functions.js133289525245608781 0
+98C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\node_modules\css-tree\cjs\syntax\pseudo133289525253705180 1
+97C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\entities\lib\generated\decode-data-xml.d.ts133289525231308471 0
+64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\semver\bin133289525189506838 1
+43C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\js133321551289466933 1
+106C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-select\lib\esm\pseudo-selectors\pseudos.d.ts.map133289525251434690 0
 82C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\ordered-binary\tests\test.js133289525209608509 0
 109C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Operator.cjs133289525259907687 0
 44C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\css133289708165145300 1
@@ -46,7 +54,7 @@
 86C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\node-gyp-build-optional.cmd133289525346162879 0
 83C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\svgo\plugins\removeDoctype.js133289525247507645 0
 71C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lmdb\dependencies133289525265324838 1
-45C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist133320679869258817 1
+45C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist133321551290538905 1
 101C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133289525190158317 0
 85C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\lib\tokenizer\utils.js133289525286107511 0
 84C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\core\lib\AssetGraph.js133289525230053130 0
@@ -80,7 +88,7 @@
 97C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\object-values.js133289525319954999 0
 81C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\source-map-js\source-map.js133289525219205090 0
 85C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\regions\FR.js133289525297632124 0
-51C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\index.html133320649988211444 0
+51C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\index.html133320694768150460 0
 53C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules133289525374083544 1
 85C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\regions\ST.js133289525331838854 0
 74C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\msgpackr\index.d.cts133289525215649188 0
@@ -116,7 +124,7 @@
 80C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\domutils\lib\querying.d.ts133289525231135167 0
 73C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\picomatch\README.md133289525219063121 0
 75C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\msgpackr\dist\test.js133289525237343864 0
-54C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\scss\elements133320681222523256 1
+54C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\scss\elements133320687153682276 1
 92C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133289525221654706 0
 71C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\timsort\README.md133289525194326723 0
 130C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133289525346206286 0
@@ -300,9 +308,9 @@
 64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\color-name133289525197446179 1
 83C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features.js133289525294454932 0
 63C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\commander133289525215631013 1
-67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.f23bebde.svg133320674673990379 0
+67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.f23bebde.svg133321545633838757 0
 64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-select133289525255929485 1
-70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\BESTSHOP_RWD.3464ddca.js133320674674477111 0
+70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\BESTSHOP_RWD.3464ddca.js133321545633893963 0
 110C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\compress.js133289525228060768 0
 106C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\css-print-color-adjust.js133289525283720604 0
 137C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133289525243106062 0
@@ -455,8 +463,8 @@
 73C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\type-fest\readme.md133289525195708334 0
 77C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\domhandler\lib\index.js133289525189857180 0
 83C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\json-parse-even-better-errors133289525201464729 1
-75C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\sass\types\index.d.ts133289525259108667 0
 81C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lightningcss-win32-x64-msvc133289525196865666 1
+75C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\sass\types\index.d.ts133289525259108667 0
 71C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lines-and-columns133289525198008255 1
 105C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-select\node_modules\dom-serializer\package.json133289525213985243 0
 131C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\browser.js133289525223158627 0
@@ -543,7 +551,7 @@
 81C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\node-addon-api\CHANGELOG.md133289525228328211 0
 102C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers\lib\_is_native_reflect_construct.js133289525252570812 0
 73C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\msgpackr\index.d.ts133289525252631567 0
-67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Facebook.389b15e8.svg133320674674512259 0
+67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Facebook.389b15e8.svg133321545633848733 0
 99C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\css-text-indent.js133289525285869985 0
 92C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\cjs\replace\AttributeSelector.cjs133289525220748114 0
 77C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\supports-color\index.js133289525194438515 0
@@ -1540,13 +1548,6 @@
 85C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\lib\tokenizer\names.js133289525281607189 0
 99C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh133289525240908898 0
 83C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\source-map\dist\source-map.js133289525232412206 0
-133C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\package.json133289525267228750 0
-120C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133289525256044505 0
-99C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\async-functions.js133289525245608781 0
-98C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\node_modules\css-tree\cjs\syntax\pseudo133289525253705180 1
-97C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\entities\lib\generated\decode-data-xml.d.ts133289525231308471 0
-64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\semver\bin133289525189506838 1
-106C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-select\lib\esm\pseudo-selectors\pseudos.d.ts.map133289525251434690 0
 68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\semver\LICENSE133289525188893414 0
 70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\semver\README.md133289525212837252 0
 71C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\sass\sass.dart.js133289525254143657 0
@@ -2042,8 +2043,6 @@
 111C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\050-modules.md133289525255352046 0
 79C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\msgpackr\rollup.config.js133289525229507359 0
 88C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\heif.js133289525300946006 0
-74C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\globals\package.json133289525199927805 0
-82C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lightningcss\node\index.d.ts133289525226476140 0
 86C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-what\lib\commonjs\index.d.ts133289525228802061 0
 75C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\msgpackr\unpack.d.cts133289525218744467 0
 80C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\watcher\src\shared133289525228060768 1
@@ -2291,6 +2290,8 @@
 91C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\lib\syntax\scope\selector.js133289525283906207 0
 96C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lightningcss\node\browserslistToTargets.js133289525213985243 0
 106C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133289525271346997 0
+74C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\globals\package.json133289525199927805 0
+82C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lightningcss\node\index.d.ts133289525226476140 0
 82C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\lib\clean\WhiteSpace.js133289525266844800 0
 80C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\lightningcss\node\index.js133289525217971783 0
 64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\json5\dist133289525225832648 1
@@ -2604,7 +2605,7 @@
 114C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\node_modules\css-tree\cjs\utils\create-custom-error.cjs133289525227909586 0
 110C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-select\node_modules\domutils\lib\esm\querying.js.map133289525245558716 0
 97C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\trusted-types.js133289525337155509 0
-68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Mail Icon.b0bc1804.svg133320674674428960 0
+68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Mail Icon.b0bc1804.svg133321545633848733 0
 138C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\src\index.js133289525250905222 0
 90C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\htmlnano\docs\docs\060-contribute.md133289525256124522 0
 73C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\has-flag\index.d.ts133289525189418670 0
@@ -3065,7 +3066,6 @@
 85C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\regions\US.js133289525338509308 0
 110C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\selector.cjs133289525262749683 0
 95C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\customevent.js133289525288156378 0
-78C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\cjs\version.cjs133289525267264466 0
 97C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\border-radius.js133289525260742167 0
 92C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\css-sel3.js133289525285019358 0
 107C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\value.cjs133289525266323918 0
@@ -3315,6 +3315,7 @@
 90C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\package-manager\package.json133289525245386889 0
 72C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\cjs\utils133289525266844800 1
 79C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\acorn\dist\acorn.mjs.d.ts133289525225107356 0
+78C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\cjs\version.cjs133289525267264466 0
 73C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\cjs\walker133289525256532041 1
 100C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\text-size-adjust.js133289525335192082 0
 83C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\css-tree\cjs\walker\index.cjs133289525256708321 0
@@ -3814,9 +3815,9 @@
 83C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\chrome-trace-event\CHANGES.md133289525199199297 0
 94C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\chrome-trace-event\dist\trace-event.d.ts133289525208105099 0
 94C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\object-fit.js133289525319709465 0
-92C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\chrome-trace-event\dist\trace-event.js133289525188985226 0
-85C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\source-map\dist\wasm.js133289525228606026 0
 99C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\contenteditable.js133289525271007681 0
+85C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\source-map\dist\wasm.js133289525228606026 0
+92C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\chrome-trace-event\dist\trace-event.js133289525188985226 0
 96C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\chrome-trace-event\dist\trace-event.js.map133289525195289286 0
 107C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133289525284338603 0
 71C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\chokidar\index.js133289525201310330 0
@@ -4388,7 +4389,7 @@
 101C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\template-literals.js133289525334549567 0
 92C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\template.js133289525334606085 0
 92C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\testfeat.js133289525334809593 0
-66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Catalog.8507218e.svg133320674674414001 0
+66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Catalog.8507218e.svg133321545633848733 0
 79C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\watcher\src\linux133289525232412206 1
 97C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\text-overflow.js133289525335036543 0
 95C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\caniuse-lite\data\features\text-stroke.js133289525335257809 0
@@ -4495,12 +4496,12 @@
 66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers133289525264907646 1
 70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers\lib133289525263965398 1
 74C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers\scripts133289525264803117 1
-66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Twitter.41e2b00a.svg133320674674213426 0
+66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Twitter.41e2b00a.svg133321545633848733 0
 97C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\core\test\fixtures\config-malformed133289525197607626 1
 70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers\src133289525275724324 1
 104C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133289525226039857 0
 102C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133289525265131742 0
-68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.500c8d26.css.map133320674674351575 0
+68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.500c8d26.css.map133321545634093652 0
 92C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers\src\_array_with_holes.mjs133289525265420902 0
 99C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@swc\helpers\src\_assert_this_initialized.mjs133289525265738582 0
 77C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@parcel\types\unsafe.js133289525201310330 0
@@ -5801,7 +5802,7 @@
 133C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\package.json133289525195259191 0
 130C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\README.md133289525208708511 0
 152C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js.map133289525204433992 0
-65C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\iPhone.18df9ac3.png133320674673854974 0
+65C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\iPhone.18df9ac3.png133321545633903984 0
 131C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\types133289525214605143 1
 152C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts133289525215110282 0
 102C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs133289525215732817 0
@@ -5880,7 +5881,7 @@
 64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\json5133289525346152651 0
 73C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\node-gyp-build133289525346162879 0
 82C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\node-gyp-build-optional133289525346162879 0
-64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.500c8d26.css133320674674213426 0
+64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.500c8d26.css133321545634025340 0
 100C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\node-gyp-build-optional-packages-optional133289525346162879 0
 104C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133289525346162879 0
 100C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133289525346162879 0
@@ -5895,27 +5896,30 @@
 67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\svgo.ps1133289525346196221 0
 65C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\terser133289525346206286 0
 69C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\node_modules\.bin\terser.ps1133289525346206286 0
+50C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\js\app.js133321551289456760 0
 58C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\font\fontello.ttf133289708163935046 0
-68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\ArrowDown.05f965ff.svg133320674674428960 0
-69C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Background.96fc9b9b.png133320674674237326 0
-74C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\BESTSHOP_RWD.3464ddca.js.map133320674674746961 0
+68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\ArrowDown.05f965ff.svg133321545633848733 0
+69C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Background.96fc9b9b.png133321545634070613 0
+74C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\BESTSHOP_RWD.3464ddca.js.map133321545634260212 0
 70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Checkmark-1.22a0eaf4.svg133291290667955764 0
-68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Checkmark.c57fbd17.svg133320674674512259 0
-70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Ckechmark-1.80ec2266.svg133320674674227193 0
-64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Close.22110c7d.svg133320674674213426 0
-62C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Eye.e60e75e7.svg133320674674512259 0
-67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.4fdfa74e.eot133320674673822331 0
-69C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.51527325.woff2133320674673832334 0
-67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.60be54ac.ttf133320674673822331 0
-68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.6260be92.woff133320674673832334 0
-64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.574c7455.css133320679869228688 0
-68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.574c7455.css.map133320679869248900 0
-56C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.html133320674674351575 0
+68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Checkmark.c57fbd17.svg133321545633848733 0
+70C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Ckechmark-1.80ec2266.svg133321545634025340 0
+64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Close.22110c7d.svg133321545633848733 0
+62C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Eye.e60e75e7.svg133321545633848733 0
+67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.4fdfa74e.eot133321545633893963 0
+69C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.51527325.woff2133321545633893963 0
+67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.60be54ac.ttf133321545634025340 0
+68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\fontello.6260be92.woff133321545633893963 0
+64C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.574c7455.css133321545633853814 0
+68C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.574c7455.css.map133321545634025340 0
+63C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.cea00a9b.js133321551290398558 0
+67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.cea00a9b.js.map133321551290528407 0
+56C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\index.html133321545633903984 0
 75C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\assets\Twitter.svg?Zone.Identifier133265515574334319 0
-66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Macbook.a1f4b436.png133320674674101656 0
-65C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Person.e8721018.svg133320674673990379 0
-69C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Phone Icon.b10af3a5.svg133320674674227193 0
-66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Trumpet.041da3b3.png133320674674213426 0
+66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Macbook.a1f4b436.png133321545634035371 0
+65C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Person.e8721018.svg133321545633838757 0
+69C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Phone Icon.b10af3a5.svg133321545634025340 0
+66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\dist\Trumpet.041da3b3.png133321545633893963 0
 58C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\css\animation.css133289708164581204 0
 66C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\css\fontello-embedded.css133289708164843259 0
 67C:\Users\tom_o\BESTSHOP_RWD\BESTSHOP_RWD\css\fontello-ie7-codes.css133289708164970928 0
